@@ -1,0 +1,3 @@
+﻿  Lab2Snack.cpp
+C:\Users\DELL\Desktop\Lab2Snack\Lab2Snack\game.h(26,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab2Snack.vcxproj -> C:\Users\DELL\Desktop\Lab2Snack\Debug\Lab2Snack.exe
